@@ -36,6 +36,11 @@ Analyze the relationship between Bitcoin market sentiment (Fear/Greed Index) and
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+## 🚀 Dashboard
+
+Run locally:
+streamlit run app.py
+
 ---
 
 ## 📌 Conclusion
